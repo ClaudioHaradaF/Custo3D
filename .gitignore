@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.spec
+custo3d.db
+*.exe
+debug_*.py
+test_*.txt
+test_*.out
+*.old.exe
